@@ -1,2 +1,0 @@
-# HorizonSEO
-HTML5
